@@ -1,9 +1,1 @@
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/ZouHongxue/demo/tree/zouhongxue_dev/springcloud/config/config-server/config-repo
-server:
-  port: 8888
-
+hello=world
